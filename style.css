@@ -6,6 +6,7 @@
 body{
   background-image: url("./Animation\ -\ 1740131936128.gif");
   background-size:cover ;
+  background-repeat: no-repeat;
 }
 h1{
     text-align:center;
